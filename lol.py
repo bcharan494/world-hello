@@ -25,3 +25,11 @@ def my_function(age = ' twenty eight'):
   print("charan is hardworker and and he is" + age)
 my_function()
 
+my function(x):
+  return 5 * x
+my_function(3)
+my_function(6)
+my_function(8)
+print(my_funtion(x))
+
+  
