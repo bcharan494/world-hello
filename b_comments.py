@@ -7,6 +7,7 @@ name='python programming'
 print(name)
 print('name')
 
+lol = lal bal pal
 name2='python' #programming
 print(name2)
 
